@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "SightsenseLogo.png",
+      "filename" : "Logo.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "SightsenseLogo 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "SightsenseLogo 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
